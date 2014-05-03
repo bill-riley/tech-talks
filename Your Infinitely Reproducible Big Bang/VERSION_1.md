@@ -1,8 +1,6 @@
 Version #1
 =======
-
-***Writer's Notes**:  I'm not happy with where this goes after the 7-8th para. I'm going to try something else. Keeping this for longevity.*
-
+**Writer's Notes**:  *I'm not happy with where this goes after the 7-8th para. I'm going to try something else. Keeping this for posterity.*
 
 My principal intent [today|tonight] is to help us better understand how to solve internal problems and external problems, in tangible ways, and distribute that solution.  More concretely: I want to help everyone understand the way information propagates in a culture. The chain of production, the way ideas are designed for accessibility, and the method in which ideas are marketed and distributed. The intiuition I intend to pump into you is simple: Data Matters. 
 
@@ -40,9 +38,9 @@ Version 4, **The Muse**. We captured an idea in sound.  We converted the idea to
 
 Version 5, **The Telephone**.  We captured the mouth with incredible portability. 
 
-Version 6, **The Radio**. We captured sound with incredible longevity and longevity. 
+Version 6, **The Radio**. We captured sound with that same portability and longevity. 
 
-Version 7, **The Television**. We captured real life, the music, images, and text came together to create a new medium: **Video**. 
+Version 7, **The Television**. We captured *real life*, the music, images, and text came together to create a new medium: **Video**. 
 
 Version 8, **The Internet**. The New Machine for Making Sense. The only distribution channel with millions of sub-distribution channels, like Blogs, and Facebook, and Twitter, and Instagram, and SoundCloud, and... Hubdia. 
 
