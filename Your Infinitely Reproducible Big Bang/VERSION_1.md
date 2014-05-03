@@ -1,7 +1,7 @@
 Version #1
 =======
 
-*Writer's Notes*:  I'm not happy with where this goes after the 7-8th para. I'm going to another approach, but keep this for longevity. 
+***Writer's Notes**:  I'm not happy with where this goes after the 7-8th para. I'm going to try something else. Keeping this for longevity.*
 
 
 My principal intent [today|tonight] is to help us better understand how to solve internal problems and external problems, in tangible ways, and distribute that solution.  More concretely: I want to help everyone understand the way information propagates in a culture. The chain of production, the way ideas are designed for accessibility, and the method in which ideas are marketed and distributed. The intiuition I intend to pump into you is simple: Data Matters. 
