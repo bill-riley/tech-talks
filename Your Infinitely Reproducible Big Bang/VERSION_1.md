@@ -1,3 +1,6 @@
+Writing #1
+=======
+
 My principal intent [today|tonight] is to help us better understand how to solve internal problems and external problems, in tangible ways, and distribute that solution.  More concretely: I want to help everyone understand the way information propagates in a culture. The chain of production, the way ideas are designed for accessibility, and the method in which ideas are marketed and distributed. The intiuition I intend to pump into you is simple: Data Matters. 
 
 For some personal context: I write code for websites, I’m a developer, but I have an artist's mindset when it comes to what I build. When I was young, I was exposed to a great psychologist called Joseph Campbell. He compared religions and other myths and developed an idea called the Monomyth, often referred to as The Hero’s Journey. Fast forward a little bit, and I’m exceptionally sad and frustrated, working at a job I’ve had for a year. I’m basically collecting a check twice a month from doing work on clients I morally disagree with. Driving back and forth, spending and hour and a half in traffic, hating everything and everyone for no reason.  And, I’m trying to figure out how I can fit into this job as an important cog in the machine. 
