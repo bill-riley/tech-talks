@@ -24,7 +24,7 @@ That's the process of producing an idea. The next step is designing the product.
 
 At this point, you have your product, and you've designed it, now you need to distribute it. This part absolutely **fascinates** me.  Rememeber when I said that an idea has to "make sense"? The process of creating an idea is literally creating sense, and when an idea is distributed to someone else, it "makes sense" in their head too. Once that sense the idea created is distributed to everyone in a culture, that sense obviously becomes the most commonly distributed form of sense. We often refer to this phenomenon as "Common Sense". 
 
-
+*To be completed and reviewed*
 
 
 
